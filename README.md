@@ -44,7 +44,9 @@ Overall = Domain Avg = Difficulty Avg = (Chat + Code + Math + Safety) / 4
 And each difficulty level is computed as:
 
 Easy   = (Safety_Easy + Math_Easy + Chat_Easy + Code_Easy) / 4
+
 Normal = (Safety_Normal + Math_Normal + Chat_Normal + Code_Normal) / 4
+
 Hard   = (Safety_Hard + Math_Hard + Chat_Hard + Code_Hard) / 4
 
 Following this definition ensures that **Domain Avg = Difficulty Avg = Overall**.
